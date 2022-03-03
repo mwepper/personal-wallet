@@ -146,4 +146,9 @@ Desktop.ini
 # Properties
 ######################
 *.properties
-*.hbm.xml
+*.cfg.xml
+
+######################
+# Java
+######################
+InitUtils.java
